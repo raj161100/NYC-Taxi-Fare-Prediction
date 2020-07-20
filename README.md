@@ -16,3 +16,5 @@ dropoff_latitude - the latitude where the meter was disengaged
 store_and_fwd_flag - This flag indicates whether the trip record was held in vehicle memory before sending to the vendor because the vehicle did not have a connection to the server (Y=store and forward; N=not a store and forward trip)
 trip_duration - (target) duration of the trip in seconds
 You can download the dataset from the repository and perform the EDA on this dataset.
+Link for DataSet:
+https://drive.google.com/file/d/1opNSTkXSp2eLNaL7AM7V8TvvG369oRm-/view?usp=sharing
